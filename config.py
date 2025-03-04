@@ -1,4 +1,4 @@
 settings = {
-    'TOKEN': 'Ваш токен // You bot token' # токен // token
-    'PREFIX': '!' # префикс // prefix
+    'TOKEN': '...' # ваш токен здесь 
+    'PREFIX': '!' # префикс
 }
